@@ -1,46 +1,13 @@
-## Hii 👋 We are Nikhil Chauhan and Vansh Sharma
+## Hii 👋 I'm Vansh Sharma And this is my Portfolio
 
-- 🔭 We are currently working on *YuvaPrabha*
+- 🔭 We are currently learning *React*
 - 🌱 We are currently learning *Machine Learning*
-- 📫 How to reach us *edencorporation@gmail.com*
+- 📫 How to reach me *01vanshsharma@gmail.com*
 
 
-# YuvaPrabha
+# About me
 
-YuvaPrabha is an innovative app designed to empower students and learners. It offers AI-driven career guidance, resume-building tools, and connects users with 🧑‍🎓job and internship opportunities through collaborations with startups.
-
-
-## UI/UX Design
-Below are the images showcasing the UI/UX design of Yuvaprabha:
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/image1" alt="UI Screenshot 1" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/image2" alt="UI Screenshot 2" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/image3" alt="UI Screenshot 3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/image4" alt="UI Screenshot 4" width="200"/></td>
-  </tr>
-</table>
-
-## Installation
-
-Install the Yuvaprabha App by click on this 🔗link : (Link) and Download it and Install it in your 📱device.
-
-## Feature
-- 🤖*AI Career Guidance*: Get personalized career advice through AI support.
-
-- 📱*UI Feature*: Dark Mode and Light Mode Feature
-
-- 🎯*Career Roadmaps*: Roadmaps Availabe to Learn New Skills.
-
-- 📝*Help in Resume building*: YuvaPrabha will help in building Resume.
-
-- 📃*Job and Internship Opportunities*: Access a curated list of opportunities through collaborations with startups.
-
-- 💻*User-Friendly Interface*: Enjoy a clean and intuitive UI tailored for students and learners.
-
-
-
+Myself Vansh Sharma🧑‍🎓 I'm from Hathras and currently in 2nd year, Btech CSE in GLA University. I know Web development, App Development and a UI/UX Designer.
 
 
 ## Tech Stack
