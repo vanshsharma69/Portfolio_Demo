@@ -7,7 +7,11 @@
 
 # About me
 
-Myself Vansh Sharma🧑‍🎓 I'm from Hathras and currently in 2nd year, Btech CSE in GLA University. I know Web development, App Development and a UI/UX Designer.
+👋 Hi, I'm Vansh Sharma, a Computer Science student at GLA University, passionate about technology and innovation. With a solid academic foundation from St. Francis Inter College in Hathras, where I scored 88% in Class 10 and 80% in Class 12, I am now diving deep into the world of coding and development.
+
+💻 I’m skilled in Java, Python, and Flutter,  Web Development and I enjoy solving real-world problems through code. My journey in tech is all about continuous growth—I'm constantly learning and expanding my expertise in programming and development.
+
+🌱 As I advance in my studies, I'm eager to take on challenges that push my abilities, build meaningful projects, and collaborate with like-minded individuals. Let's connect if you’re interested in tech, coding, or creating innovative solutions together!
 
 
 ## Tech Stack
