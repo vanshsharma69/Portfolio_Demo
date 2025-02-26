@@ -121,10 +121,10 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding-top: 1.25rem;
+        padding-top: 1.2rem;
     }
     .logo{
-        width: 32px;
+        width: 28px;
     }
     .logo-container{
         display: flex;
@@ -132,14 +132,14 @@
         justify-content: baseline;
     }
     .logo-text{
-        margin-left: -0.25rem;
+        margin-left: -0.2rem;
         font-size: 0.8rem;
         font-weight: 800;
     }
     .nav-items{
         display: flex;
-        gap: 1.5rem;
-        padding: 0 2rem;
+        gap: 1rem;
+        padding: 0 1.5rem;
     }
     
     .nav-items a{
